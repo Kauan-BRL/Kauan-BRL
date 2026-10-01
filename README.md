@@ -13,6 +13,7 @@ My goal is to become a **fullstack developer**, working with ambitious projects.
 
 - Backend development
 - Databases with **MYSQL**
+- Git features, commands and applications
 
 ## 💻 Languages and tools
 
